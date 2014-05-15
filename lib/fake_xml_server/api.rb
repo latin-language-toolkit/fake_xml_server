@@ -4,6 +4,11 @@ require 'sinatra/respond_with'
 class Api < Sinatra::Base
   register Sinatra::RespondWith
 
+  before do
+    headers 'Access-Control-Allow-Origin' => '*',
+      'Access-Control-Allow-Methods' => %w{ GET }
+  end
+
   get '/xml_server/:doc' do
     doc  = params[:doc]
     sent = params[:s]
