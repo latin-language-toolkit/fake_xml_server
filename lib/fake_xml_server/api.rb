@@ -4,14 +4,12 @@ require 'sinatra/respond_with'
 class Api < Sinatra::Base
   register Sinatra::RespondWith
 
-  get '/xml_server' do
+  get '/xml_server/:doc' do
     doc  = params[:doc]
     sent = params[:s]
 
-    get_file(doc, sent)
-
     respond_to do |f|
-      f.xml { file }
+      f.xml { get_file(doc, sent) }
     end
   end
 
