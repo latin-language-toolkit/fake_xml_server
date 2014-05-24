@@ -12,7 +12,7 @@
         <word  id="10" form="conqueritur" lemma="conqueror" postag="v3spip---" head="" relation=""/>
         <word  id="11" form="," lemma="punc1" postag="u--------" head="" relation="AuxX"/>
         <word  id="12" form="quod" lemma="qui2" postag="p-s---nn-" head="" relation=""/>
-        <word  id="13" form="in" lemma="in" postag="r--------" head="15" relation=""/>
+        <word  id="13" form="in" lemma="in" postag="r--------" head="" relation=""/>
         <word  id="14" form="exiguum" lemma="exiguum" postag="n-p---ng-" head="13" relation=""/>
         <word  id="15" form="aevi" lemma="aevum" postag="n-s---ng-" head="14" relation=""/>
         <word  id="16" form="gignamur" lemma="gigno" postag="v1ppsp---" head="" relation=""/>
