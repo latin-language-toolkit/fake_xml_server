@@ -21,7 +21,7 @@
 		<word id="18" form="se" lemma="sui1" postag="p-s---ma-" head="17" relation="OBJ" />
 		<word id="19" form="adduci" lemma="adduco1" postag="v--pnp---" head="13" relation="OBJ_CO" />
 		<word id="20" form="iussit" lemma="iubeo1" postag="v3sria---" head="0" relation="PRED" />
-    <word id="21" form=".">
+    <word id="21" form="."/>
 
 		<word id="22" form="Quae" lemma="qui1" postag="p-p---nn-" head="2" relation="ATR" />
 		<word id="23" form="omnia" lemma="omnis1" postag="n-p---nn-" head="8" relation="SBJ" />
@@ -32,7 +32,7 @@
 		<word id="28" form="diem" lemma="dies1" postag="n-s---fa-" head="6" relation="ADV" />
 		<word id="29" form="facta" lemma="facio1" postag="t-prppnn-" head="0" relation="PRED" />
 		<word id="30" form="sunt" lemma="sum1" postag="v3ppia---" head="8" relation="AuxV" />
-    <word id="31" form=".">
+    <word id="31" form="."/>
 
 		<word id="32" form="Ipse" lemma="ipse1" postag="p-s---mn-" head="6" relation="SBJ" />
 		<word id="33" form="Diviciacum" lemma="Diviciacus1" postag="n-s---ma-" head="5" relation="OBJ" />
@@ -60,7 +60,7 @@
 		<word id="55" form="tempore" lemma="tempus1" postag="n-s---nb-" head="25" relation="ADV" />
 		<word id="56" form="confligendum" lemma="confligo1" postag="t-spgpnn-" head="19" relation="ADV" />
 		<word id="57" form="sit" lemma="sum1" postag="v3spsa---" head="25" relation="AuxV" />
-    <word id="58" form=".">
+    <word id="58" form="."/>
 
 		<word id="59" form="Id" lemma="is1" postag="p-s---na-" head="3" relation="SBJ" />
 		<word id="60" form="fieri" lemma="fio1" postag="v--pnp---" head="3" relation="OBJ" />
@@ -79,7 +79,7 @@
 		<word id="73" form="agros" lemma="ager1" postag="n-p---ma-" head="16" relation="OBJ" />
 		<word id="74" form="populari" lemma="populor1" postag="v--pnp---" head="17" relation="OBJ" />
 		<word id="75" form="coeperint" lemma="coepio1" postag="v3ptia---" head="13" relation="ADV_CO" />
-    <word id="76" form=".">
+    <word id="76" form="."/>
 
 		<word id="77" form="His" lemma="hic1" postag="p-p---nb-" head="3" relation="ATR" />
 		<word id="78" form="datis" lemma="do1" postag="t-prppnb-" head="7" relation="ADV" />
@@ -88,7 +88,7 @@
 		<word id="81" form="a" lemma="ab1" postag="r--------" head="7" relation="AuxP" />
 		<word id="82" form="se" lemma="sui1" postag="p-s---mb-" head="5" relation="OBJ" />
 		<word id="83" form="dimittit" lemma="dimitto1" postag="v3spia---" head="0" relation="PRED" />
-    <word id="84" form=".">
+    <word id="84" form="."/>
 
 		<word id="85" form="Postquam" lemma="postquam1" postag="c--------" head="40" relation="AuxC" />
 		<word id="86" form="omnes" lemma="omnis1" postag="a-p---fa-" head="4" relation="ATR" />
@@ -134,7 +134,7 @@
 		<word id="126" form="ibi" lemma="ibi1" postag="d--------" head="44" relation="ADV" />
 		<word id="127" form="castra" lemma="castrum1" postag="n-p---na-" head="44" relation="OBJ" />
 		<word id="128" form="posuit" lemma="pono1" postag="v3sria---" head="41" relation="PRED_CO" />
-    <word id="130" form=".">
+    <word id="130" form="."/>
 
 		<word id="131" form="Quae" lemma="qui1" postag="p-s---fn-" head="2" relation="ATR" />
 		<word id="132" form="res" lemma="res1" postag="n-s---fn-" head="19" relation="SBJ" />
@@ -169,14 +169,14 @@
 		<word id="161" form="portari" lemma="porto1" postag="v--pnp---" head="32" relation="OBJ" />
 		<word id="162" form="possent" lemma="possum1" postag="v3pisa---" head="26" relation="OBJ" />
 		<word id="163" form="efficiebat" lemma="efficio1" postag="v3siia---" head="19" relation="PRED_CO" />
-    <word id="164" form=".">
+    <word id="164" form="."/>
 
 		<word id="165" form="In" lemma="in1" postag="r--------" head="5" relation="AuxP" />
 		<word id="166" form="eo" lemma="is1" postag="p-s---nb-" head="3" relation="ATR" />
 		<word id="167" form="flumine" lemma="flumen1" postag="n-s---nb-" head="1" relation="ADV" />
 		<word id="168" form="pons" lemma="pons1" postag="n-s---mn-" head="5" relation="SBJ" />
 		<word id="169" form="erat" lemma="sum1" postag="v3siia---" head="0" relation="PRED" />
-    <word id="170" form=".">
+    <word id="170" form="."/>
 
 		<word id="171" form="Ibi" lemma="ibi1" postag="d--------" head="3" relation="ADV" />
 		<word id="172" form="praesidium" lemma="praesidium1" postag="n-s---na-" head="3" relation="OBJ" />
@@ -194,7 +194,7 @@
 		<word id="184" form="sex" lemma="sex1" postag="m--------" head="15" relation="ATR" />
 		<word id="185" form="cohortibus" lemma="cohors1" postag="n-p---fb-" head="13" relation="ADV" />
 		<word id="186" form="relinquit" lemma="relinquo1" postag="v3spia---" head="4" relation="PRED_CO" />
-    <word id="187" form=".">
+    <word id="187" form="."/>
 
 		<word id="188" form="castra" lemma="castrum1" postag="n-p---na-" head="11" relation="SBJ" />
 		<word id="189" form="in" lemma="in1" postag="r--------" head="4" relation="AuxP" />
@@ -208,6 +208,6 @@
 		<word id="197" form="pedum" lemma="pes1" postag="n-p---mg-" head="8" relation="ATR" />
 		<word id="198" form="muniri" lemma="munio1" postag="v--pnp---" head="12" relation="OBJ" />
 		<word id="199" form="iubet" lemma="iubeo1" postag="v3spia---" head="0" relation="PRED" />
-    <word id="200" form=".">
+    <word id="200" form="."/>
 	</sentence>
 </treebank>
