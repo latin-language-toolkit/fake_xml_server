@@ -6,7 +6,8 @@ class Api < Sinatra::Base
 
   before do
     headers 'Access-Control-Allow-Origin' => '*',
-      'Access-Control-Allow-Methods' => %w{ GET }
+      'Access-Control-Allow-Methods' => %w{ GET },
+      'Access-Control-Allow-Headers' => %w{ Content-Type }
   end
 
   get '/xml_server/:doc' do
