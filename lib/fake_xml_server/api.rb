@@ -24,7 +24,9 @@ class Api < Sinatra::Base
     sent = params[:s]
 
     respond_to do |f|
-      f.xml { post_file(doc, sent, request.body.read)}
+      f.xml do
+        post_file(doc, sent, request.body.read) && respond_with(200)
+      end
     end
   end
 
@@ -45,5 +47,7 @@ class Api < Sinatra::Base
     File.open(current_file(doc, sent), 'w')	do |f|
       f.puts(xml)
     end
+    # Should do some error handling here
+    true
   end
 end
