@@ -18,11 +18,11 @@ class Api < Sinatra::Base
     end
   end
 
-  post '/xml_server' do
-    #doc  = params[:doc]
-    #sent = params[:sent]
+  post '/xml_server/:doc' do
+    puts request
+  end
 
-    # tdb
+  options '/xml_server' do
   end
 
   DATA_PATH = File.expand_path("../../../data", __FILE__)
