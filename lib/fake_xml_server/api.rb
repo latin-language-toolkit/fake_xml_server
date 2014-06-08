@@ -20,7 +20,12 @@ class Api < Sinatra::Base
   end
 
   post '/xml_server/:doc' do
-    puts request
+    doc  = params[:doc]
+    sent = params[:s]
+
+    respond_to do |f|
+      f.xml { post_file(doc, sent, request.body.read)}
+    end
   end
 
   options '/xml_server/:doc' do
@@ -28,7 +33,17 @@ class Api < Sinatra::Base
 
   DATA_PATH = File.expand_path("../../../data", __FILE__)
 
+  def current_file(doc, sent)
+    "#{DATA_PATH}/#{doc}.#{sent}.xml"
+  end
+
   def get_file(doc, sent)
-    File.read("#{DATA_PATH}/#{doc}.#{sent}.xml")
+    File.read(current_file(doc, sent))
+  end
+
+  def post_file(doc, sent, xml)
+    File.open(current_file(doc, sent), 'w')	do |f|
+      f.puts(xml)
+    end
   end
 end
