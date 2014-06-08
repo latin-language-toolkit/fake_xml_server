@@ -22,7 +22,7 @@ class Api < Sinatra::Base
     puts request
   end
 
-  options '/xml_server' do
+  options '/xml_server/:doc' do
   end
 
   DATA_PATH = File.expand_path("../../../data", __FILE__)
