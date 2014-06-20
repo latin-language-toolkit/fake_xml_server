@@ -19,6 +19,10 @@ class Api < Sinatra::Base
     end
   end
 
+  get '/smyth' do
+    File.read(File.join(DATA_PATH, 'smyth.html'))
+  end
+
   post '/xml_server/:doc' do
     doc  = params[:doc]
     sent = params[:s]
