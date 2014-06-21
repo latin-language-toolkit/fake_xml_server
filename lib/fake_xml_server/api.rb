@@ -19,8 +19,8 @@ class Api < Sinatra::Base
     end
   end
 
-  get '/smyth' do
-    File.read(File.join(DATA_PATH, 'smyth.html'))
+  get '/smyth/:doc' do
+    File.read(File.join(DATA_PATH, 'smyth', params[:doc]))
   end
 
   post '/xml_server/:doc' do
