@@ -10,7 +10,7 @@
         <word id="8" form="ὃ" lemma="ὅς" postag="p-s---nn-" head="0" relation=""/>
         <word id="9" form="ἦν" lemma="εἰμί" postag="v1siia---" head="0" relation=""/>
         <word id="10" form="Σίμωνος" lemma="Σίμων" postag="n-s---mg-" head="0" relation=""/>
-        <word id="11" form="," lemma="punc1" postag="u--------" head="0" relation="AuxX"/>
+        <word id="11" form="," lemma="" postag="" head="0" relation="AuxX"/>
         <word id="12" form="ἠρώτησεν" lemma="ἐρωτάω" postag="v3saia---" head="0" relation=""/>
         <word id="13" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" head="0" relation=""/>
         <word id="14" form="ἀπὸ" lemma="ἀπό" postag="r--------" head="0" relation=""/>
