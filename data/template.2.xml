@@ -1,7 +1,7 @@
 <treebank xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" format="aldt" xml:lang="lat">
     <sentence id="1">
         <word  id="1" form="Maior" lemma="" postag="" head="" relation=""/>
-        <word  id="2" form="pars" lemma="pars" postag="d--------" head="" relation=""/>
+        <word  id="2" form="pars" lemma="" postag="---------" head="" relation=""/>
         <word  id="3" form="mortalium" lemma="mortalia" postag="n-p---ng-" head="" relation=""/>
         <word  id="4" form="," lemma="punc1" postag="u--------" head="" relation="AuxX"/>
         <word  id="5" form="Pauline" lemma="paulus1" postag="a-p---mn-" head="" relation=""/>
