@@ -29,7 +29,10 @@ class Api < Sinatra::Base
 
     respond_to do |f|
       f.xml do
-        post_file(doc, sent, request.body.read) && respond_with(200)
+        if post_file(doc, sent, request.body.read)
+          content_type :xml
+          respond_with(200)
+        end
       end
     end
   end
