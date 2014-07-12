@@ -1,4 +1,4 @@
-<treebank>
+<treebank xml:lang="grc">
   <sentence id="1" cite="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1:12.1">
     <word id="1" form="Ἀνθρωπος" lemma="̓́Ανθρωπος" postag="n-s---mn------" head="2"
       relation="PNOM"/>
