@@ -15,7 +15,12 @@ class Api < Sinatra::Base
     sent = params[:s]
 
     respond_to do |f|
-      f.xml { get_file(doc, sent) }
+      f.xml do
+        if get_file(doc, sent)
+          content_type :xml
+          respond_with(200)
+        end
+      end
     end
   end
 
