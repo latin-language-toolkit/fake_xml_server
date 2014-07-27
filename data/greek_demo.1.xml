@@ -102,191 +102,122 @@
       relation="SBJ_CO"/>
     <word id="13" form=":" lemma="punc1" postag="u--------" head="0" relation="AuxK"/>
   </sentence>
-  <sentence id="25" span="" document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1"
-    subdoc="1.3">
-    <word id="1" form="ἐπεὶ" lemma="ἐπεί" head="25" relation="AuxC"/>
-    <word id="2" form="δ᾽" lemma="δέ" head="25" relation="AuxY"/>
-    <word id="3" form="οὔτε" lemma="οὔτε" head="6"
-      relation="AuxY"/>
-    <word id="4" form="τοῦ" lemma="ὁ" head="9" relation="ATR"/>
-    <word id="5" form="Ῥωμαίων" lemma="Ῥωμαῖος" head="6"
-      relation="ATR_CO"/>
-    <word id="6" form="οὔτε" lemma="οὔτε" head="9"
-      relation="COORD"/>
-    <word id="7" form="τοῦ" lemma="ὁ" head="9" relation="ATR"/>
-    <word id="8" form="Καρχηδονίων" lemma="Καρχηδόνιος" head="6"
-      relation="ATR_CO"/>
-    <word id="9" form="πολιτεύματος" lemma="πολίτευμα" head="18"
-      relation="ATR"/>
-    <word id="10" form="πρόχειρός" lemma="πρόχειρος" head="11"
-      relation="PNOM"/>
-    <word id="11" form="ἐστι" lemma="εἰμί" head="1" relation="ADV"/>
-    <word id="12" form="τοῖς" lemma="ὁ" head="13" relation="ATR"/>
-    <word id="13" form="πολλοῖς" lemma="πολύς" head="10"
-      relation="ADV"/>
-    <word id="14" form="τῶν" lemma="ὁ" head="15" relation="ATR"/>
-    <word id="15" form="Ἑλλήνων" lemma="Ἕλλην" head="13"
-      relation="ATR"/>
-    <word id="16" form="ἡ" lemma="ὁ" head="18" relation="ATR"/>
-    <word id="17" form="προγεγενημένη" lemma="προγίγνομαι"
-      head="18"
-      relation="ATR"/>
-    <word id="18" form="δύναμις" lemma="δύναμις" head="19"
-      relation="SBJ_CO"/>
-    <word id="19" form="οὐδ᾽" lemma="οὐδέ" head="11"
-      relation="COORD"/>
-    <word id="20" form="αἱ" lemma="ὁ" head="21" relation="ATR"/>
-    <word id="21" form="πράξεις" lemma="πρᾶξις" head="19"
-      relation="SBJ_CO"/>
-    <word id="22" form="αὐτῶν" lemma="αὐτός" head="21"
-      relation="ATR"/>
-    <word id="23" form="," lemma="punc1" head="1" relation="AuxX"/>
-    <word id="24" form="ἀναγκαῖον" lemma="ἀναγκαῖον" head="26"
-      relation="PNOM"/>
-    <word id="25" form="ὑπελάβομεν" lemma="ὑπολαμβάνω" head="0"
-      relation="PRED"/>
-    <word id="26" form="εἶναι" lemma="εἰμί" head="25" relation="OBJ"/>
-    <word id="27" form="συντάξασθαι" lemma="συντάσσω" head="26"
-      relation="SBJ"/>
-    <word id="28" form="ταύτην" lemma="οὗτος" head="29"
-      relation="ATR_CO"/>
-    <word id="29" form="καὶ" lemma="καί" head="32" relation="COORD"/>
-    <word id="30" form="τὴν" lemma="ὁ" head="29" relation="ATR_CO"/>
-    <word id="31" form="ἑξῆς" lemma="ἑξῆς" head="30" relation="ATR"/>
-    <word id="32" form="βύβλον" lemma="βύβλος" head="27"
-      relation="OBJ"/>
-    <word id="33" form="πρὸ" head="31"
-      relation="AuxP"/>
-    <word id="34" form="τῆς" lemma="ὁ" head="35" relation="ATR"/>
-    <word id="35" form="ἱστορίας" lemma="ἱστορία" head="33"
-      relation="ADV"/>
-    <word id="36" form="," lemma="punc1" head="37" relation="AuxX"/>
-    <word id="37" form="ἵνα" lemma="ἵνα" head="27"
-      relation="AuxC"/>
-    <word id="38" form="μηδεὶς" lemma="μηδείς" head="48"
-      relation="SBJ"/>
-    <word id="39" form="ἐπιστὰς" lemma="ἐφίστημι" head="48"
-      relation="ADV"/>
-    <word id="40" form="ἐπ᾽" lemma="ἐπί" head="39" relation="AuxP"/>
-    <word id="41" form="αὐτὴν" lemma="αὐτός" head="45"
-      relation="ATR"/>
-    <word id="42" form="τὴν" lemma="ὁ" head="45" relation="ATR"/>
-    <word id="43" form="τῶν" lemma="ὁ" head="44" relation="ATR"/>
-    <word id="44" form="πραγμάτων" lemma="πρᾶγμα" head="45"
-      relation="ATR"/>
-    <word id="45" form="ἐξήγησιν" lemma="ἐξήγησις" head="40"
-      relation="OBJ"/>
-    <word id="46" form="τότε" lemma="τότε" head="48" relation="ADV"/>
-    <word id="47" form="διαπορῇ" lemma="διαπορέω" head="48"
-      relation="ADV_CO"/>
-    <word id="48" form="καὶ" lemma="καί" head="80" relation="COORD"/>
-    <word id="49" form="ζητῇ" lemma="ζητέω" head="48"
-      relation="ADV_CO"/>
-    <word id="50" form="ποίοις" lemma="ποῖος" head="51"
-      relation="ATR"/>
-    <word id="51" form="διαβουλίοις" lemma="διαβούλιον" head="52"
-      relation="OBJ_CO"/>
-    <word id="52" form="ἢ" lemma="ἤ1" head="57" relation="COORD"/>
-    <word id="53" form="ποίαις" lemma="ποῖος" head="55" relation="ATR"/>
-    <word id="54" form="δυνάμεσι" lemma="δύναμις" head="55"
-      relation="OBJ_CO"/>
-    <word id="55" form="καὶ" lemma="καί" head="52" relation="COORD"/>
-    <word id="56" form="χορηγίαις" lemma="χορηγία" head="55"
-      relation="OBJ_CO"/>
-    <word id="57" form="χρησάμενοι" lemma="χράω2" head="61"
-      relation="ADV"/>
-    <word id="58" form="Ῥωμαῖοι" lemma="Ῥωμαῖος" head="61"
-      relation="SBJ"/>
-    <word id="59" form="πρὸς" lemma="πρός" head="61" relation="AuxP"/>
-    <word id="60" form="ταύτας" lemma="οὗτος" head="63"
-      relation="ATR"/>
-    <word id="61" form="ὥρμησαν" lemma="ὁρμέω" head="49"
-      relation="OBJ"/>
-    <word id="62" form="τὰς" lemma="ὁ" head="63" relation="ATR"/>
-    <word id="63" form="ἐπιβολάς" lemma="ἐπιβολή" head="59"
-      relation="OBJ"/>
-    <word id="64" form="," lemma="punc1" head="76" relation="AuxX"/>
-    <word id="65" form="δι᾽" lemma="διά" head="76"
-      relation="AuxP"/>
-    <word id="66" form="ὧν" lemma="ὅς" head="65" relation="ADV"/>
-    <word id="67" form="καὶ" lemma="καί" head="70"
-      relation="AuxY"/>
-    <word id="68" form="τῆς" lemma="ὁ" head="69" relation="ATR"/>
-    <word id="69" form="γῆς" lemma="Γαῖα" head="70" relation="ATR_CO"/>
-    <word id="70" form="καὶ" lemma="καί" head="78" relation="COORD"/>
-    <word id="71" form="τῆς" lemma="ὁ" head="72" relation="ATR"/>
-    <word id="72" form="θαλάττης" lemma="θάλασσα" head="70"
-      relation="ATR_CO"/>
-    <word id="73" form="τῆς" lemma="ὁ" head="70" relation="ATR"/>
-    <word id="74" form="καθ᾽" lemma="κατά" head="77"
-      relation="AuxP"/>
-    <word id="75" form="ἡμᾶς" lemma="ἐγώ" head="74"
-      relation="ADV"/>
-    <word id="76" form="ἐγένοντο" lemma="γίγνομαι" head="63"
-      relation="ATR"/>
-    <word id="77" form="πάσης" lemma="πᾶς" head="70" relation="ATR"/>
-    <word id="78" form="ἐγκρατεῖς" lemma="ἐγκρατής" head="76"
-      relation="PNOM"/>
-    <word id="79" form="," lemma="punc1" head="76" relation="AuxX"/>
-    <word id="80" form="ἀλλ᾽" lemma="ἀλλά" head="37"
-      relation="COORD"/>
-    <word id="81" form="ἐκ" lemma="ἐκ" head="91" relation="AuxP"/>
-    <word id="82" form="τούτων" lemma="οὗτος" head="84"
-      relation="ATR"/>
-    <word id="83" form="τῶν" lemma="ὁ" head="84" relation="ATR"/>
-    <word id="84" form="βύβλων" lemma="βύβλος" head="85"
-      relation="ADV_CO"/>
-    <word id="85" form="καὶ" lemma="καί" head="81" relation="COORD"/>
-    <word id="86" form="τῆς" lemma="ὁ" head="89" relation="ATR"/>
-    <word id="87" form="ἐν" lemma="εἰς" head="89" relation="AuxP"/>
-    <word id="88" form="ταύταις" lemma="οὗτος" head="87"
-      relation="ATR"/>
-    <word id="89" form="προκατασκευῆς" lemma="προκατασκευή"
-      head="85"
-      relation="ADV_CO"/>
-    <word id="90" form="δῆλον" lemma="δῆλος" head="91"
-      relation="PNOM"/>
-    <word id="91" form="ᾖ" lemma="εἰμί" head="80"
-      relation="ADV_CO"/>
-    <word id="92" form="τοῖς" lemma="ὁ" head="93" relation="ATR"/>
-    <word id="93" form="ἐντυγχάνουσιν" lemma="ἐντυγχάνω"
-      head="90"
-      relation="ADV"/>
-    <word id="94" form="ὅτι" lemma="ὅτι" head="91"
-      relation="AuxC"/>
-    <word id="95" form="καὶ" lemma="καί" head="96"
-      relation="AuxZ"/>
-    <word id="96" form="λίαν" lemma="λίαν" head="97" relation="ADV"/>
-    <word id="97" form="εὐλόγοις" lemma="εὔλογος" head="98"
-      relation="ATR"/>
-    <word id="98" form="ἀφορμαῖς" lemma="ἀφορμή" head="99"
-      relation="OBJ"/>
-    <word id="99" form="χρησάμενοι" lemma="χράω2" head="104"
-      relation="ADV"/>
-    <word id="100" form="πρός" lemma="πρός" head="104" relation="AuxP"/>
-    <word id="101" form="τε" lemma="τε" head="105" relation="AuxY"/>
-    <word id="102" form="τὴν" lemma="ὁ" head="103" relation="ATR"/>
-    <word id="103" form="ἐπίνοιαν" lemma="ἐπίνοια" head="100"
-      relation="OBJ"/>
-    <word id="104" form="ὥρμησαν" lemma="ὁρμέω" head="105"
-      relation="SBJ_CO"/>
-    <word id="105" form="καὶ" lemma="καί" head="94" relation="COORD"/>
-    <word id="106" form="πρὸς" lemma="πρός" head="109" relation="AuxP"/>
-    <word id="107" form="τὴν" lemma="ὁ" head="108" relation="ATR"/>
-    <word id="108" form="συντέλειαν" lemma="συντέλεια" head="106"
-      relation="OBJ"/>
-    <word id="109" form="ἐξίκοντο" lemma="ἐξικνέομαι"
-      head="105"
-      relation="SBJ_CO"/>
-    <word id="110" form="τῆς" lemma="ὁ" head="113" relation="ATR"/>
-    <word id="111" form="τῶν" lemma="ὁ" head="112" relation="ATR"/>
-    <word id="112" form="ὅλων" lemma="ὅλος" head="114"
-      relation="ATR"/>
-    <word id="113" form="ἀρχῆς" lemma="ἀρχή" head="114"
-      relation="ATR_CO"/>
-    <word id="114" form="καὶ" lemma="καί" head="108" relation="COORD"/>
-    <word id="115" form="δυναστείας" lemma="δυναστεία" head="114"
-      relation="ATR_CO"/>
-    <word id="116" form="." lemma="punc1" head="0" relation="AuxK"/>
+  <sentence id="9" document_id="urn:cts:greekLit:tlg0543.tlg001.perseus-grc1:1.3" subdoc="" span="">
+    <word id="1" form="&#x1F10;&#x3C0;&#x3B5;&#x1F76;" lemma="&#x1F10;&#x3C0;&#x3B5;&#x3AF;" postag="c--------" head="25" relation="AuxC"/>
+    <word id="2" form="&#x3B4;&#x1FBD;" lemma="&#x3B4;&#x3AD;" postag="g--------" head="25" relation="AuxY"/>
+    <word id="3" form="&#x3BF;&#x1F54;&#x3C4;&#x3B5;" lemma="&#x3BF;&#x1F54;&#x3C4;&#x3B5;" postag="d-------------" head="6" relation="AuxY"/>
+    <word id="4" form="&#x3C4;&#x3BF;&#x1FE6;" lemma="&#x3BF;&#x314;" postag="l-s---ng------" head="9" relation="ATR"/>
+    <word id="5" form="&#x1FEC;&#x3C9;&#x3BC;&#x3B1;&#x3AF;&#x3C9;&#x3BD;" lemma="&#x1FEC;&#x3C9;&#x3BC;&#x3B1;&#x1FD6;&#x3BF;&#x3C2;" postag="n-p---mg------" head="6" relation="ATR_CO"/>
+    <word id="6" form="&#x3BF;&#x1F54;&#x3C4;&#x3B5;" lemma="&#x3BF;&#x1F54;&#x3C4;&#x3B5;" postag="c-------------" head="9" relation="COORD"/>
+    <word id="7" form="&#x3C4;&#x3BF;&#x1FE6;" lemma="&#x3BF;&#x314;" postag="l-s---ng------" head="9" relation="ATR"/>
+    <word id="8" form="&#x39A;&#x3B1;&#x3C1;&#x3C7;&#x3B7;&#x3B4;&#x3BF;&#x3BD;&#x3AF;&#x3C9;&#x3BD;" lemma="&#x39A;&#x3B1;&#x3C1;&#x3C7;&#x3B7;&#x3B4;&#x3CC;&#x3BD;&#x3B9;&#x3BF;&#x3C2;" postag="n-p---mg------" head="6" relation="ATR_CO"/>
+    <word id="9" form="&#x3C0;&#x3BF;&#x3BB;&#x3B9;&#x3C4;&#x3B5;&#x3CD;&#x3BC;&#x3B1;&#x3C4;&#x3BF;&#x3C2;" lemma="&#x3C0;&#x3BF;&#x3BB;&#x3AF;&#x3C4;&#x3B5;&#x3C5;&#x3BC;&#x3B1;" postag="n-s---ng------" head="18" relation="ATR"/>
+    <word id="10" form="&#x3C0;&#x3C1;&#x3CC;&#x3C7;&#x3B5;&#x3B9;&#x3C1;&#x3CC;&#x3C2;" lemma="&#x3C0;&#x3C1;&#x3CC;&#x3C7;&#x3B5;&#x3B9;&#x3C1;&#x3BF;&#x3C2;" postag="a-s---mn------" head="11" relation="PNOM"/>
+    <word id="11" form="&#x1F10;&#x3C3;&#x3C4;&#x3B9;" lemma="&#x3B5;&#x1F30;&#x3BC;&#x3AF;" postag="v3spia---" head="1" relation="ADV"/>
+    <word id="12" form="&#x3C4;&#x3BF;&#x1FD6;&#x3C2;" lemma="&#x1F41;" postag="l-p---md-" head="13" relation="ATR"/>
+    <word id="13" form="&#x3C0;&#x3BF;&#x3BB;&#x3BB;&#x3BF;&#x1FD6;&#x3C2;" lemma="&#x3C0;&#x3BF;&#x3BB;&#x3CD;&#x3C2;" postag="a-p---md-" head="10" relation="ADV"/>
+    <word id="14" form="&#x3C4;&#x1FF6;&#x3BD;" lemma="&#x1F41;" postag="l-p---mg------" head="15" relation="ATR"/>
+    <word id="15" form="&#x1F19;&#x3BB;&#x3BB;&#x3AE;&#x3BD;&#x3C9;&#x3BD;" lemma="&#x1F1D;&#x3BB;&#x3BB;&#x3B7;&#x3BD;" postag="n-p---mg-" head="13" relation="ATR"/>
+    <word id="16" form="&#x1F21;" lemma="&#x1F41;" postag="l-s---fn-" head="18" relation="ATR"/>
+    <word id="17" form="&#x3C0;&#x3C1;&#x3BF;&#x3B3;&#x3B5;&#x3B3;&#x3B5;&#x3BD;&#x3B7;&#x3BC;&#x3AD;&#x3BD;&#x3B7;" lemma="&#x3C0;&#x3C1;&#x3BF;&#x3B3;&#x3AF;&#x3B3;&#x3BD;&#x3BF;&#x3BC;&#x3B1;&#x3B9;" postag="t-srpefn------" head="18" relation="ATR"/>
+    <word id="18" form="&#x3B4;&#x3CD;&#x3BD;&#x3B1;&#x3BC;&#x3B9;&#x3C2;" lemma="&#x3B4;&#x3CD;&#x3BD;&#x3B1;&#x3BC;&#x3B9;&#x3C2;" postag="n-s---fn-" head="19" relation="SBJ_CO"/>
+    <word id="19" form="&#x3BF;&#x1F50;&#x3B4;&#x1FBD;" lemma="&#x3BF;&#x1F50;&#x3B4;&#x3B5;&#x301;" postag="c-------------" head="11" relation="COORD"/>
+    <word id="20" form="&#x3B1;&#x1F31;" lemma="&#x1F41;" postag="l-p---fn-" head="21" relation="ATR"/>
+    <word id="21" form="&#x3C0;&#x3C1;&#x3AC;&#x3BE;&#x3B5;&#x3B9;&#x3C2;" lemma="&#x3C0;&#x3C1;&#x3B1;&#x342;&#x3BE;&#x3B9;&#x3C2;" postag="n-p---fn------" head="19" relation="SBJ_CO"/>
+    <word id="22" form="&#x3B1;&#x1F50;&#x3C4;&#x1FF6;&#x3BD;" lemma="&#x3B1;&#x1F50;&#x3C4;&#x3CC;&#x3C2;" postag="p-p---mg------" head="21" relation="ATR"/>
+    <word id="23" form="," lemma="punc1" postag="u--------" head="1" relation="AuxX"/>
+    <word id="24" form="&#x1F00;&#x3BD;&#x3B1;&#x3B3;&#x3BA;&#x3B1;&#x1FD6;&#x3BF;&#x3BD;" lemma="&#x1F00;&#x3BD;&#x3B1;&#x3B3;&#x3BA;&#x3B1;&#x1FD6;&#x3BF;&#x3BD;" postag="n-s---nn-" head="26" relation="PNOM"/>
+    <word id="25" form="&#x1F51;&#x3C0;&#x3B5;&#x3BB;&#x3AC;&#x3B2;&#x3BF;&#x3BC;&#x3B5;&#x3BD;" lemma="&#x1F51;&#x3C0;&#x3BF;&#x3BB;&#x3B1;&#x3BC;&#x3B2;&#x3AC;&#x3BD;&#x3C9;" postag="v1paia--------" head="0" relation="PRED"/>
+    <word id="26" form="&#x3B5;&#x1F36;&#x3BD;&#x3B1;&#x3B9;" lemma="&#x3B5;&#x1F30;&#x3BC;&#x3AF;" postag="v--pna---" head="25" relation="OBJ"/>
+    <word id="27" form="&#x3C3;&#x3C5;&#x3BD;&#x3C4;&#x3AC;&#x3BE;&#x3B1;&#x3C3;&#x3B8;&#x3B1;&#x3B9;" lemma="&#x3C3;&#x3C5;&#x3BD;&#x3C4;&#x3AC;&#x3C3;&#x3C3;&#x3C9;" postag="v--anm---" head="26" relation="SBJ"/>
+    <word id="28" form="&#x3C4;&#x3B1;&#x3CD;&#x3C4;&#x3B7;&#x3BD;" lemma="&#x3BF;&#x1F57;&#x3C4;&#x3BF;&#x3C2;" postag="a-s---fa------" head="29" relation="ATR_CO"/>
+    <word id="29" form="&#x3BA;&#x3B1;&#x1F76;" lemma="&#x3BA;&#x3B1;&#x3AF;" postag="c--------" head="32" relation="COORD"/>
+    <word id="30" form="&#x3C4;&#x1F74;&#x3BD;" lemma="&#x1F41;" postag="l-s---fa-" head="29" relation="ATR_CO"/>
+    <word id="31" form="&#x1F11;&#x3BE;&#x1FC6;&#x3C2;" lemma="&#x1F11;&#x3BE;&#x1FC6;&#x3C2;" postag="d--------" head="30" relation="ATR"/>
+    <word id="32" form="&#x3B2;&#x3CD;&#x3B2;&#x3BB;&#x3BF;&#x3BD;" lemma="&#x3B2;&#x3CD;&#x3B2;&#x3BB;&#x3BF;&#x3C2;" postag="n-s---fa-" head="27" relation="OBJ"/>
+    <word id="33" form="&#x3C0;&#x3C1;&#x1F78;" postag="r-------------" lemma="&#x3C0;&#x3C1;&#x3BF;&#x301;" head="31" relation="AuxP"/>
+    <word id="34" form="&#x3C4;&#x1FC6;&#x3C2;" lemma="&#x1F41;" postag="l-s---fg-" head="35" relation="ATR"/>
+    <word id="35" form="&#x1F31;&#x3C3;&#x3C4;&#x3BF;&#x3C1;&#x3AF;&#x3B1;&#x3C2;" lemma="&#x1F31;&#x3C3;&#x3C4;&#x3BF;&#x3C1;&#x3AF;&#x3B1;" postag="n-s---fg------" head="33" relation="ADV"/>
+    <word id="36" form="," lemma="punc1" postag="u--------" head="37" relation="AuxX"/>
+    <word id="37" form="&#x1F35;&#x3BD;&#x3B1;" lemma="&#x1F35;&#x3BD;&#x3B1;" postag="c-------------" head="27" relation="AuxC"/>
+    <word id="38" form="&#x3BC;&#x3B7;&#x3B4;&#x3B5;&#x1F76;&#x3C2;" lemma="&#x3BC;&#x3B7;&#x3B4;&#x3B5;&#x3AF;&#x3C2;" postag="p-s---mn-" head="48" relation="SBJ"/>
+    <word id="39" form="&#x1F10;&#x3C0;&#x3B9;&#x3C3;&#x3C4;&#x1F70;&#x3C2;" lemma="&#x1F10;&#x3C6;&#x3AF;&#x3C3;&#x3C4;&#x3B7;&#x3BC;&#x3B9;" postag="t-sppamn------" head="48" relation="ADV"/>
+    <word id="40" form="&#x1F10;&#x3C0;&#x1FBD;" lemma="&#x1F10;&#x3C0;&#x3AF;" postag="r--------" head="39" relation="AuxP"/>
+    <word id="41" form="&#x3B1;&#x1F50;&#x3C4;&#x1F74;&#x3BD;" lemma="&#x3B1;&#x1F50;&#x3C4;&#x3CC;&#x3C2;" postag="a-s---fa------" head="45" relation="ATR"/>
+    <word id="42" form="&#x3C4;&#x1F74;&#x3BD;" lemma="&#x1F41;" postag="l-s---fa-" head="45" relation="ATR"/>
+    <word id="43" form="&#x3C4;&#x1FF6;&#x3BD;" lemma="&#x1F41;" postag="l-p---ng------" head="44" relation="ATR"/>
+    <word id="44" form="&#x3C0;&#x3C1;&#x3B1;&#x3B3;&#x3BC;&#x3AC;&#x3C4;&#x3C9;&#x3BD;" lemma="&#x3C0;&#x3C1;&#x1FB6;&#x3B3;&#x3BC;&#x3B1;" postag="n-p---ng-" head="45" relation="ATR"/>
+    <word id="45" form="&#x1F10;&#x3BE;&#x3AE;&#x3B3;&#x3B7;&#x3C3;&#x3B9;&#x3BD;" lemma="&#x1F10;&#x3BE;&#x3AE;&#x3B3;&#x3B7;&#x3C3;&#x3B9;&#x3C2;" postag="n-s---fa-" head="40" relation="OBJ"/>
+    <word id="46" form="&#x3C4;&#x3CC;&#x3C4;&#x3B5;" lemma="&#x3C4;&#x3CC;&#x3C4;&#x3B5;" postag="d--------" head="48" relation="ADV"/>
+    <word id="47" form="&#x3B4;&#x3B9;&#x3B1;&#x3C0;&#x3BF;&#x3C1;&#x1FC7;" lemma="&#x3B4;&#x3B9;&#x3B1;&#x3C0;&#x3BF;&#x3C1;&#x3AD;&#x3C9;" postag="v3spsa--------" head="48" relation="ADV_CO"/>
+    <word id="48" form="&#x3BA;&#x3B1;&#x1F76;" lemma="&#x3BA;&#x3B1;&#x3AF;" postag="c--------" head="80" relation="COORD"/>
+    <word id="49" form="&#x3B6;&#x3B7;&#x3C4;&#x1FC7;" lemma="&#x3B6;&#x3B7;&#x3C4;&#x3AD;&#x3C9;" postag="v3spsa--------" head="48" relation="ADV_CO"/>
+    <word id="50" form="&#x3C0;&#x3BF;&#x3AF;&#x3BF;&#x3B9;&#x3C2;" lemma="&#x3C0;&#x3BF;&#x3B9;&#x342;&#x3BF;&#x3C2;" postag="a-p---md------" head="51" relation="ATR"/>
+    <word id="51" form="&#x3B4;&#x3B9;&#x3B1;&#x3B2;&#x3BF;&#x3C5;&#x3BB;&#x3AF;&#x3BF;&#x3B9;&#x3C2;" lemma="&#x3B4;&#x3B9;&#x3B1;&#x3B2;&#x3BF;&#x3CD;&#x3BB;&#x3B9;&#x3BF;&#x3BD;" postag="n-p---nd-" head="52" relation="OBJ_CO"/>
+    <word id="52" form="&#x1F22;" lemma="&#x1F24;1" postag="c--------" head="57" relation="COORD"/>
+    <word id="53" form="&#x3C0;&#x3BF;&#x3AF;&#x3B1;&#x3B9;&#x3C2;" lemma="&#x3C0;&#x3BF;&#x1FD6;&#x3BF;&#x3C2;" postag="a-p---fd-" head="55" relation="ATR"/>
+    <word id="54" form="&#x3B4;&#x3C5;&#x3BD;&#x3AC;&#x3BC;&#x3B5;&#x3C3;&#x3B9;" lemma="&#x3B4;&#x3CD;&#x3BD;&#x3B1;&#x3BC;&#x3B9;&#x3C2;" postag="n-p---fd-" head="55" relation="OBJ_CO"/>
+    <word id="55" form="&#x3BA;&#x3B1;&#x1F76;" lemma="&#x3BA;&#x3B1;&#x3AF;" postag="c--------" head="52" relation="COORD"/>
+    <word id="56" form="&#x3C7;&#x3BF;&#x3C1;&#x3B7;&#x3B3;&#x3AF;&#x3B1;&#x3B9;&#x3C2;" lemma="&#x3C7;&#x3BF;&#x3C1;&#x3B7;&#x3B3;&#x3AF;&#x3B1;" postag="n-p---fd-" head="55" relation="OBJ_CO"/>
+    <word id="57" form="&#x3C7;&#x3C1;&#x3B7;&#x3C3;&#x3AC;&#x3BC;&#x3B5;&#x3BD;&#x3BF;&#x3B9;" lemma="&#x3C7;&#x3C1;&#x3AC;&#x3C9;2" postag="t-papmmn------" head="61" relation="ADV"/>
+    <word id="58" form="&#x1FEC;&#x3C9;&#x3BC;&#x3B1;&#x1FD6;&#x3BF;&#x3B9;" lemma="&#x1FEC;&#x3C9;&#x3BC;&#x3B1;&#x1FD6;&#x3BF;&#x3C2;" postag="n-p---mn------" head="61" relation="SBJ"/>
+    <word id="59" form="&#x3C0;&#x3C1;&#x1F78;&#x3C2;" lemma="&#x3C0;&#x3C1;&#x3CC;&#x3C2;" postag="r--------" head="61" relation="AuxP"/>
+    <word id="60" form="&#x3C4;&#x3B1;&#x3CD;&#x3C4;&#x3B1;&#x3C2;" lemma="&#x3BF;&#x1F57;&#x3C4;&#x3BF;&#x3C2;" postag="a-p---fa------" head="63" relation="ATR"/>
+    <word id="61" form="&#x1F65;&#x3C1;&#x3BC;&#x3B7;&#x3C3;&#x3B1;&#x3BD;" lemma="&#x1F41;&#x3C1;&#x3BC;&#x3AD;&#x3C9;" postag="v3paia--------" head="49" relation="OBJ"/>
+    <word id="62" form="&#x3C4;&#x1F70;&#x3C2;" lemma="&#x1F41;" postag="l-p---fa-" head="63" relation="ATR"/>
+    <word id="63" form="&#x1F10;&#x3C0;&#x3B9;&#x3B2;&#x3BF;&#x3BB;&#x3AC;&#x3C2;" lemma="&#x1F10;&#x3C0;&#x3B9;&#x3B2;&#x3BF;&#x3BB;&#x3AE;" postag="n-p---fa-" head="59" relation="OBJ"/>
+    <word id="64" form="," lemma="punc1" postag="u--------" head="76" relation="AuxX"/>
+    <word id="65" form="&#x3B4;&#x3B9;&#x1FBD;" lemma="&#x3B4;&#x3B9;&#x3B1;&#x301;" postag="r-------------" head="76" relation="AuxP"/>
+    <word id="66" form="&#x1F67;&#x3BD;" lemma="&#x1F45;&#x3C2;" postag="p-p---fg------" head="65" relation="ADV"/>
+    <word id="67" form="&#x3BA;&#x3B1;&#x1F76;" lemma="&#x3BA;&#x3B1;&#x3AF;" postag="d-------------" head="70" relation="AuxY"/>
+    <word id="68" form="&#x3C4;&#x1FC6;&#x3C2;" lemma="&#x1F41;" postag="l-s---fg-" head="69" relation="ATR"/>
+    <word id="69" form="&#x3B3;&#x1FC6;&#x3C2;" lemma="&#x393;&#x3B1;&#x1FD6;&#x3B1;" postag="n-s---fg-" head="70" relation="ATR_CO"/>
+    <word id="70" form="&#x3BA;&#x3B1;&#x1F76;" lemma="&#x3BA;&#x3B1;&#x3AF;" postag="c--------" head="78" relation="COORD"/>
+    <word id="71" form="&#x3C4;&#x1FC6;&#x3C2;" lemma="&#x1F41;" postag="l-s---fg-" head="72" relation="ATR"/>
+    <word id="72" form="&#x3B8;&#x3B1;&#x3BB;&#x3AC;&#x3C4;&#x3C4;&#x3B7;&#x3C2;" lemma="&#x3B8;&#x3AC;&#x3BB;&#x3B1;&#x3C3;&#x3C3;&#x3B1;" postag="n-s---fg-" head="70" relation="ATR_CO"/>
+    <word id="73" form="&#x3C4;&#x1FC6;&#x3C2;" lemma="&#x1F41;" postag="l-s---fg-" head="70" relation="ATR"/>
+    <word id="74" form="&#x3BA;&#x3B1;&#x3B8;&#x1FBD;" lemma="&#x3BA;&#x3B1;&#x3C4;&#x3B1;&#x301;" postag="r-------------" head="77" relation="AuxP"/>
+    <word id="75" form="&#x1F21;&#x3BC;&#x1FB6;&#x3C2;" lemma="&#x3B5;&#x313;&#x3B3;&#x3C9;&#x301;" postag="n-p---ma------" head="74" relation="ADV"/>
+    <word id="76" form="&#x1F10;&#x3B3;&#x3AD;&#x3BD;&#x3BF;&#x3BD;&#x3C4;&#x3BF;" lemma="&#x3B3;&#x3AF;&#x3B3;&#x3BD;&#x3BF;&#x3BC;&#x3B1;&#x3B9;" postag="v3paim--------" head="63" relation="ATR"/>
+    <word id="77" form="&#x3C0;&#x3AC;&#x3C3;&#x3B7;&#x3C2;" lemma="&#x3C0;&#x1FB6;&#x3C2;" postag="a-s---fg-" head="70" relation="ATR"/>
+    <word id="78" form="&#x1F10;&#x3B3;&#x3BA;&#x3C1;&#x3B1;&#x3C4;&#x3B5;&#x1FD6;&#x3C2;" lemma="&#x1F10;&#x3B3;&#x3BA;&#x3C1;&#x3B1;&#x3C4;&#x3AE;&#x3C2;" postag="a-p---mn------" head="76" relation="PNOM"/>
+    <word id="79" form="," lemma="punc1" postag="u--------" head="76" relation="AuxX"/>
+    <word id="80" form="&#x1F00;&#x3BB;&#x3BB;&#x1FBD;" lemma="&#x1F00;&#x3BB;&#x3BB;&#x3AC;" postag="c-------------" head="37" relation="COORD"/>
+    <word id="81" form="&#x1F10;&#x3BA;" lemma="&#x1F10;&#x3BA;" postag="r--------" head="91" relation="AuxP"/>
+    <word id="82" form="&#x3C4;&#x3BF;&#x3CD;&#x3C4;&#x3C9;&#x3BD;" lemma="&#x3BF;&#x1F57;&#x3C4;&#x3BF;&#x3C2;" postag="a-p---fg------" head="84" relation="ATR"/>
+    <word id="83" form="&#x3C4;&#x1FF6;&#x3BD;" lemma="&#x1F41;" postag="l-p---mg------" head="84" relation="ATR"/>
+    <word id="84" form="&#x3B2;&#x3CD;&#x3B2;&#x3BB;&#x3C9;&#x3BD;" lemma="&#x3B2;&#x3CD;&#x3B2;&#x3BB;&#x3BF;&#x3C2;" postag="n-p---fg-" head="85" relation="ADV_CO"/>
+    <word id="85" form="&#x3BA;&#x3B1;&#x1F76;" lemma="&#x3BA;&#x3B1;&#x3AF;" postag="c--------" head="81" relation="COORD"/>
+    <word id="86" form="&#x3C4;&#x1FC6;&#x3C2;" lemma="&#x1F41;" postag="l-s---fg-" head="89" relation="ATR"/>
+    <word id="87" form="&#x1F10;&#x3BD;" lemma="&#x3B5;&#x1F30;&#x3C2;" postag="r--------" head="89" relation="AuxP"/>
+    <word id="88" form="&#x3C4;&#x3B1;&#x3CD;&#x3C4;&#x3B1;&#x3B9;&#x3C2;" lemma="&#x3BF;&#x1F57;&#x3C4;&#x3BF;&#x3C2;" postag="p-p---fd-" head="87" relation="ATR"/>
+    <word id="89" form="&#x3C0;&#x3C1;&#x3BF;&#x3BA;&#x3B1;&#x3C4;&#x3B1;&#x3C3;&#x3BA;&#x3B5;&#x3C5;&#x1FC6;&#x3C2;" lemma="&#x3C0;&#x3C1;&#x3BF;&#x3BA;&#x3B1;&#x3C4;&#x3B1;&#x3C3;&#x3BA;&#x3B5;&#x3C5;&#x3B7;&#x301;" postag="n-s---fg------" head="85" relation="ADV_CO"/>
+    <word id="90" form="&#x3B4;&#x1FC6;&#x3BB;&#x3BF;&#x3BD;" lemma="&#x3B4;&#x1FC6;&#x3BB;&#x3BF;&#x3C2;" postag="a-s---nn------" head="91" relation="PNOM"/>
+    <word id="91" form="&#x1F96;" lemma="&#x3B5;&#x1F30;&#x3BC;&#x3AF;" postag="v3spsa--------" head="80" relation="ADV_CO"/>
+    <word id="92" form="&#x3C4;&#x3BF;&#x1FD6;&#x3C2;" lemma="&#x1F41;" postag="l-p---md-" head="93" relation="ATR"/>
+    <word id="93" form="&#x1F10;&#x3BD;&#x3C4;&#x3C5;&#x3B3;&#x3C7;&#x3AC;&#x3BD;&#x3BF;&#x3C5;&#x3C3;&#x3B9;&#x3BD;" lemma="&#x1F10;&#x3BD;&#x3C4;&#x3C5;&#x3B3;&#x3C7;&#x3AC;&#x3BD;&#x3C9;" postag="t-pppamd------" head="90" relation="ADV"/>
+    <word id="94" form="&#x1F45;&#x3C4;&#x3B9;" lemma="&#x3BF;&#x314;&#x301;&#x3C4;&#x3B9;" postag="c-------------" head="91" relation="AuxC"/>
+    <word id="95" form="&#x3BA;&#x3B1;&#x1F76;" lemma="&#x3BA;&#x3B1;&#x3AF;" postag="d-------------" head="96" relation="AuxZ"/>
+    <word id="96" form="&#x3BB;&#x3AF;&#x3B1;&#x3BD;" lemma="&#x3BB;&#x3AF;&#x3B1;&#x3BD;" postag="d--------" head="97" relation="ADV"/>
+    <word id="97" form="&#x3B5;&#x1F50;&#x3BB;&#x3CC;&#x3B3;&#x3BF;&#x3B9;&#x3C2;" lemma="&#x3B5;&#x1F54;&#x3BB;&#x3BF;&#x3B3;&#x3BF;&#x3C2;" postag="a-p---md-" head="98" relation="ATR"/>
+    <word id="98" form="&#x1F00;&#x3C6;&#x3BF;&#x3C1;&#x3BC;&#x3B1;&#x1FD6;&#x3C2;" lemma="&#x1F00;&#x3C6;&#x3BF;&#x3C1;&#x3BC;&#x3AE;" postag="n-p---fd-" head="99" relation="OBJ"/>
+    <word id="99" form="&#x3C7;&#x3C1;&#x3B7;&#x3C3;&#x3AC;&#x3BC;&#x3B5;&#x3BD;&#x3BF;&#x3B9;" lemma="&#x3C7;&#x3C1;&#x3AC;&#x3C9;2" postag="t-papmmn------" head="104" relation="ADV"/>
+    <word id="100" form="&#x3C0;&#x3C1;&#x3CC;&#x3C2;" lemma="&#x3C0;&#x3C1;&#x3CC;&#x3C2;" postag="r--------" head="104" relation="AuxP"/>
+    <word id="101" form="&#x3C4;&#x3B5;" lemma="&#x3C4;&#x3B5;" postag="g--------" head="105" relation="AuxY"/>
+    <word id="102" form="&#x3C4;&#x1F74;&#x3BD;" lemma="&#x1F41;" postag="l-s---fa-" head="103" relation="ATR"/>
+    <word id="103" form="&#x1F10;&#x3C0;&#x3AF;&#x3BD;&#x3BF;&#x3B9;&#x3B1;&#x3BD;" lemma="&#x1F10;&#x3C0;&#x3AF;&#x3BD;&#x3BF;&#x3B9;&#x3B1;" postag="n-s---fa-" head="100" relation="OBJ"/>
+    <word id="104" form="&#x1F65;&#x3C1;&#x3BC;&#x3B7;&#x3C3;&#x3B1;&#x3BD;" lemma="&#x1F41;&#x3C1;&#x3BC;&#x3AD;&#x3C9;" postag="v3paia---" head="105" relation="SBJ_CO"/>
+    <word id="105" form="&#x3BA;&#x3B1;&#x1F76;" lemma="&#x3BA;&#x3B1;&#x3AF;" postag="c--------" head="94" relation="COORD"/>
+    <word id="106" form="&#x3C0;&#x3C1;&#x1F78;&#x3C2;" lemma="&#x3C0;&#x3C1;&#x3CC;&#x3C2;" postag="r--------" head="109" relation="AuxP"/>
+    <word id="107" form="&#x3C4;&#x1F74;&#x3BD;" lemma="&#x1F41;" postag="l-s---fa-" head="108" relation="ATR"/>
+    <word id="108" form="&#x3C3;&#x3C5;&#x3BD;&#x3C4;&#x3AD;&#x3BB;&#x3B5;&#x3B9;&#x3B1;&#x3BD;" lemma="&#x3C3;&#x3C5;&#x3BD;&#x3C4;&#x3AD;&#x3BB;&#x3B5;&#x3B9;&#x3B1;" postag="n-s---fa-" head="106" relation="OBJ"/>
+    <word id="109" form="&#x1F10;&#x3BE;&#x3AF;&#x3BA;&#x3BF;&#x3BD;&#x3C4;&#x3BF;" lemma="&#x3B5;&#x313;&#x3BE;&#x3B9;&#x3BA;&#x3BD;&#x3B5;&#x301;&#x3BF;&#x3BC;&#x3B1;&#x3B9;" postag="v3paim--------" head="105" relation="SBJ_CO"/>
+    <word id="110" form="&#x3C4;&#x1FC6;&#x3C2;" lemma="&#x1F41;" postag="l-s---fg-" head="113" relation="ATR"/>
+    <word id="111" form="&#x3C4;&#x1FF6;&#x3BD;" lemma="&#x1F41;" postag="l-p---ng------" head="112" relation="ATR"/>
+    <word id="112" form="&#x1F45;&#x3BB;&#x3C9;&#x3BD;" lemma="&#x3BF;&#x314;&#x301;&#x3BB;&#x3BF;&#x3C2;" postag="a-p---ng------" head="114" relation="ATR"/>
+    <word id="113" form="&#x1F00;&#x3C1;&#x3C7;&#x1FC6;&#x3C2;" lemma="&#x1F00;&#x3C1;&#x3C7;&#x3AE;" postag="n-s---fg-" head="114" relation="ATR_CO"/>
+    <word id="114" form="&#x3BA;&#x3B1;&#x1F76;" lemma="&#x3BA;&#x3B1;&#x3AF;" postag="c--------" head="108" relation="COORD"/>
+    <word id="115" form="&#x3B4;&#x3C5;&#x3BD;&#x3B1;&#x3C3;&#x3C4;&#x3B5;&#x3AF;&#x3B1;&#x3C2;" lemma="&#x3B4;&#x3C5;&#x3BD;&#x3B1;&#x3C3;&#x3C4;&#x3B5;&#x3AF;&#x3B1;" postag="n-s---fg------" head="114" relation="ATR_CO"/>
+    <word id="116" form="." lemma="punc1" postag="u--------" head="0" relation="AuxK"/>
   </sentence>
 </treebank>
