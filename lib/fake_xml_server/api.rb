@@ -19,6 +19,14 @@ class Api < Sinatra::Base
     end
   end
 
+  get '/comments/:doc' do
+    doc = params[:doc]
+    json = File.read(File.join(DATA_PATH, 'comments', "#{doc}.json"))
+    respond_to do |f|
+      f.json { json }
+    end
+  end
+
   get '/smyth/:doc' do
     File.read(File.join(DATA_PATH, 'smyth', params[:doc]))
   end
