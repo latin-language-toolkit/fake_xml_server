@@ -1,5 +1,8 @@
 require 'sinatra/base'
 require 'sinatra/respond_with'
+require 'sinatra/json'
+require 'time'
+require 'json'
 
 class Api < Sinatra::Base
   register Sinatra::RespondWith
@@ -25,6 +28,17 @@ class Api < Sinatra::Base
     respond_to do |f|
       f.json { json }
     end
+  end
+
+  post '/comments/:doc' do
+    res = JSON.parse(request.body.read)
+    date = Time.utc(*Time.now.to_a).iso8601(3)
+    user = "Robert"
+    res['created_at'] = date
+    res['updated_at'] = date
+    res['user'] = user
+
+    json(res)
   end
 
   get '/smyth/:doc' do
