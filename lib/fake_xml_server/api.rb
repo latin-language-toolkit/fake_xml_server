@@ -62,6 +62,10 @@ class Api < Sinatra::Base
   options '/xml_server/:doc' do
   end
 
+  options '/comments/:doc' do
+  end
+
+  DATA_PATH = File.expand_path("../../../data", __FILE__)
   DATA_PATH = File.expand_path("../../../data", __FILE__)
 
   def current_file(doc, sent)
