@@ -69,7 +69,8 @@ class Api < Sinatra::Base
   DATA_PATH = File.expand_path("../../../data", __FILE__)
 
   def current_file(doc, sent)
-    "#{DATA_PATH}/#{doc}.#{sent}.xml"
+    path = [doc, sent].compact.join('.')
+    "#{DATA_PATH}/#{path}.xml"
   end
 
   def get_file(doc, sent)
