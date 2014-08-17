@@ -10,7 +10,7 @@
     <address>1986gh@gmail.com</address>
     <url>http://data.perserus.org/sosol/users/LFDM</url>
   </annotator>
-  <link title="relation" href="http://services.perseids.org/arethusa-configs/elmlatch1_relations.json"/>
+  <link title="relation" href="http://services.perseids.org/arethusa-configs/arethusa.relation/elmlatch1.json"/>
   <sentence id="1" cite="urn:cts:latinLit:phi0448.phi001.perseus-grc1:2.1">
 		<word id="1" form="Cum" lemma="cum1" postag="c--------" head="20" relation="" />
 		<word id="2" form="esset" lemma="sum1" postag="v3sisa---" head="1" relation="" />
