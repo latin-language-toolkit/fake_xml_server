@@ -24,7 +24,7 @@ class Api < Sinatra::Base
 
   get '/comments/:doc' do
     doc = params[:doc]
-    json = File.read(File.join(DATA_PATH, 'comments', "#{doc}.json"))
+    json = read_comment_file(doc)
     respond_to do |f|
       f.json { json }
     end
@@ -33,10 +33,19 @@ class Api < Sinatra::Base
   post '/comments/:doc' do
     res = JSON.parse(request.body.read)
     date = Time.utc(*Time.now.to_a).iso8601(3)
+
+    doc = params[:doc]
+    json_comm = JSON.parse(read_comment_file(doc))
+
     user = "Robert"
     res['created_at'] = date
     res['updated_at'] = date
+    res['reason'] = 'general'
     res['user'] = user
+    res['comment_id'] = next_comment_id(json_comm)
+
+    json_comm << res.reject { |k, v| k == 'ids' || k == 'sId' }
+    write_comment_file(doc, json_comm)
 
     json(res)
   end
@@ -83,5 +92,23 @@ class Api < Sinatra::Base
     end
     # Should do some error handling here
     true
+  end
+
+  def comment_path(doc)
+    File.join(DATA_PATH, 'comments', "#{doc}.json")
+  end
+
+  def read_comment_file(doc)
+    File.read(comment_path(doc))
+  end
+
+  def write_comment_file(doc, comments)
+    comm_str = JSON.pretty_generate(comments, indent: '  ')
+    File.write(comment_path(doc), comm_str)
+  end
+
+  def next_comment_id(comments)
+    ids = comments.map { |comment| comment['comment_id'].to_i }
+    ids.max + 1
   end
 end
