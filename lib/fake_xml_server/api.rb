@@ -113,7 +113,11 @@ class Api < Sinatra::Base
   end
 
   def next_comment_id(comments)
-    ids = comments.map { |comment| comment['comment_id'].to_i }
-    ids.max + 1
+    if comments.empty?
+      1
+    else
+      ids = comments.map { |comment| comment['comment_id'].to_i }
+      ids.max + 1
+    end
   end
 end
