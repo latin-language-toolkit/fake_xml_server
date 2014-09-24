@@ -92,20 +92,19 @@
       <word id="2" form="iudicium" lemma="" postag="" relation="nil" head=""/>
       <word id="3" form="nihil" lemma="" postag="" relation="nil" head=""/>
       <word id="4" form="est" lemma="" postag="" relation="nil" head=""/>
-      <word id="5" form="ni" lemma="" postag="" relation="nil" head=""/>
-      <word id="6" form="-si" lemma="" postag="" relation="nil" head=""/>
-      <word id="7" form="publica" lemma="" postag="" relation="nil" head=""/>
-      <word id="8" form="merces" lemma="" postag="" relation="nil" head=""/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head=""/>
-      <word id="10" form="atque" lemma="" postag="" relation="nil" head=""/>
-      <word id="11" form="eques" lemma="" postag="" relation="nil" head=""/>
-      <word id="12" form="in" lemma="" postag="" relation="nil" head=""/>
-      <word id="13" form="cause" lemma="" postag="" relation="nil" head=""/>
-      <word id="14" form="qui" lemma="" postag="" relation="nil" head=""/>
-      <word id="15" form="sedet" lemma="" postag="" relation="nil" head=""/>
-      <word id="16" form="empta" lemma="" postag="" relation="nil" head=""/>
-      <word id="17" form="probat" lemma="" postag="" relation="nil" head=""/>
-      <word id="18" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="5" form="nisi" lemma="" postag="" relation="nil" head=""/>
+      <word id="6" form="publica" lemma="" postag="" relation="nil" head=""/>
+      <word id="7" form="merces" lemma="" postag="" relation="nil" head=""/>
+      <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head=""/>
+      <word id="9" form="atque" lemma="" postag="" relation="nil" head=""/>
+      <word id="10" form="eques" lemma="" postag="" relation="nil" head=""/>
+      <word id="11" form="in" lemma="" postag="" relation="nil" head=""/>
+      <word id="12" form="cause" lemma="" postag="" relation="nil" head=""/>
+      <word id="13" form="qui" lemma="" postag="" relation="nil" head=""/>
+      <word id="14" form="sedet" lemma="" postag="" relation="nil" head=""/>
+      <word id="15" form="empta" lemma="" postag="" relation="nil" head=""/>
+      <word id="16" form="probat" lemma="" postag="" relation="nil" head=""/>
+      <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="7" document_id="urn:cts:latinLit:phi0972.phi001.perseus-lat1" subdoc="14" span="">
       <word id="1" form="tutius" lemma="" postag="" relation="nil" head=""/>
