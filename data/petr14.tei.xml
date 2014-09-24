@@ -1,0 +1,23 @@
+
+<TEI.2>
+  <text lang="la">
+    <body>
+      <div1 sample="complete">
+        <div2 type="Poem" org="uniform" sample="complete">
+          <p>
+            contra Ascyltos leges timebat et 'quis' aiebat 'hoc loco nos novit aut quis habebit dicentibus fidem? mihi place placet emere, quambis nostrum sit, quod agnoscimus.
+            <lg>
+              <l>quid faciunt leges ubi sola pecunia regnat</l>
+              <l>aut ubi paupertas vincere nulla potest?</l>
+              <l>ipsi qui Cynica traducunt tempora cara</l>
+              <l>non numquam nummis vendere verba solent.</l>
+              <l>ergo iudicium nihil est nisi publica merces,</l>
+              <l>atque eques in cause qui sedet empta probat.</l>
+            </lg>
+            tutius est aere recuperare thesaurum quam in ambiguam litem descendere.'
+          </p>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>
