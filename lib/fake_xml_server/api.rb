@@ -99,7 +99,12 @@ class Api < Sinatra::Base
   end
 
   def read_comment_file(doc)
-    File.read(comment_path(doc))
+    path = comment_path(doc);
+    if File.exists?(path)
+      File.read(comment_path(doc))
+    else
+      File.write(path,'[]')
+    end
   end
 
   def write_comment_file(doc, comments)
