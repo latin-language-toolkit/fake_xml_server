@@ -56,7 +56,7 @@
       <word id="11" form="agnoscimus" lemma="" postag="" relation="nil" head=""/>
       <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="4" document_id="urn:cts:latinLit:phi0972.phi001.perseus-lat1" subdoc="14" span="">
+   <sentence id="3" document_id="urn:cts:latinLit:phi0972.phi001.perseus-lat1" subdoc="14" span="">
       <word id="1" form="quid" lemma="" postag="" relation="nil" head=""/>
       <word id="2" form="faciunt" lemma="" postag="" relation="nil" head=""/>
       <word id="3" form="leges" lemma="" postag="" relation="nil" head=""/>
@@ -72,7 +72,7 @@
       <word id="13" form="potest" lemma="" postag="" relation="nil" head=""/>
       <word id="14" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="5" document_id="urn:cts:latinLit:phi0972.phi001.perseus-lat1" subdoc="14" span="">
+   <sentence id="4" document_id="urn:cts:latinLit:phi0972.phi001.perseus-lat1" subdoc="14" span="">
       <word id="1" form="ipsi" lemma="" postag="" relation="nil" head=""/>
       <word id="2" form="qui" lemma="" postag="" relation="nil" head=""/>
       <word id="3" form="Cynica" lemma="" postag="" relation="nil" head=""/>
@@ -87,7 +87,7 @@
       <word id="12" form="solent" lemma="" postag="" relation="nil" head=""/>
       <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="6" document_id="urn:cts:latinLit:phi0972.phi001.perseus-lat1" subdoc="14" span="">
+   <sentence id="5" document_id="urn:cts:latinLit:phi0972.phi001.perseus-lat1" subdoc="14" span="">
       <word id="1" form="ergo" lemma="" postag="" relation="nil" head=""/>
       <word id="2" form="iudicium" lemma="" postag="" relation="nil" head=""/>
       <word id="3" form="nihil" lemma="" postag="" relation="nil" head=""/>
@@ -106,7 +106,7 @@
       <word id="16" form="probat" lemma="" postag="" relation="nil" head=""/>
       <word id="17" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="7" document_id="urn:cts:latinLit:phi0972.phi001.perseus-lat1" subdoc="14" span="">
+   <sentence id="6" document_id="urn:cts:latinLit:phi0972.phi001.perseus-lat1" subdoc="14" span="">
       <word id="1" form="tutius" lemma="" postag="" relation="nil" head=""/>
       <word id="2" form="est" lemma="" postag="" relation="nil" head=""/>
       <word id="3" form="aere" lemma="" postag="" relation="nil" head=""/>
