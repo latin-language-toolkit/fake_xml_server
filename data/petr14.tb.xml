@@ -26,11 +26,11 @@
       <word id="3" form="leges" lemma="" postag="" relation="nil" head=""/>
       <word id="4" form="timebat" lemma="" postag="" relation="nil" head=""/>
       <word id="5" form="et" lemma="" postag="" relation="nil" head=""/>
-      <word id="6" form="'" lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="6" form="'" lemma="punc1" postag="u--------" relation="AuxX" head=""/>
       <word id="7" form="quis" lemma="" postag="" relation="nil" head=""/>
-      <word id="8" form="'" lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="8" form="'" lemma="punc1" postag="u--------" relation="AuxX" head=""/>
       <word id="9" form="aiebat" lemma="" postag="" relation="nil" head=""/>
-      <word id="10" form="'" lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="10" form="'" lemma="punc1" postag="u--------" relation="AuxX" head=""/>
       <word id="11" form="hoc" lemma="" postag="" relation="nil" head=""/>
       <word id="12" form="loco" lemma="" postag="" relation="nil" head=""/>
       <word id="13" form="nos" lemma="" postag="" relation="nil" head=""/>
@@ -47,11 +47,11 @@
       <word id="2" form="place" lemma="" postag="" relation="nil" head=""/>
       <word id="3" form="placet" lemma="" postag="" relation="nil" head=""/>
       <word id="4" form="emere" lemma="" postag="" relation="nil" head=""/>
-      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head=""/>
       <word id="6" form="quambis" lemma="" postag="" relation="nil" head=""/>
       <word id="7" form="nostrum" lemma="" postag="" relation="nil" head=""/>
       <word id="8" form="sit" lemma="" postag="" relation="nil" head=""/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head=""/>
       <word id="10" form="quod" lemma="" postag="" relation="nil" head=""/>
       <word id="11" form="agnoscimus" lemma="" postag="" relation="nil" head=""/>
       <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
@@ -96,7 +96,7 @@
       <word id="6" form="-si" lemma="" postag="" relation="nil" head=""/>
       <word id="7" form="publica" lemma="" postag="" relation="nil" head=""/>
       <word id="8" form="merces" lemma="" postag="" relation="nil" head=""/>
-      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head=""/>
       <word id="10" form="atque" lemma="" postag="" relation="nil" head=""/>
       <word id="11" form="eques" lemma="" postag="" relation="nil" head=""/>
       <word id="12" form="in" lemma="" postag="" relation="nil" head=""/>
@@ -118,7 +118,7 @@
       <word id="8" form="ambiguam" lemma="" postag="" relation="nil" head=""/>
       <word id="9" form="litem" lemma="" postag="" relation="nil" head=""/>
       <word id="10" form="descendere" lemma="" postag="" relation="nil" head=""/>
-      <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+      <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxX" head=""/>
       <word id="12" form="'" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
 </treebank>
