@@ -19,7 +19,7 @@
       <address>robert.lichtensteiner@gmail.com</address>
       <uri>http://data.perseus.org/sosol/users/Robert%20Lichtensteiner</uri>
    </annotator>
-   <sentence id="1" document_id="" subdoc="" span="">
+   <sentence id="1" document_id="Cat. 51" subdoc="" span="">
       <word id="1" form="Ille" lemma="ille" postag="p-s---mn-" relation="SBJ" head="4"/>
       <word id="2" form="mi" lemma="ego" postag="p-s---md-" relation="OBJ" head="6"/>
       <word id="3" form="par" lemma="par" postag="d--------" relation="PNOM" head="4"/>
